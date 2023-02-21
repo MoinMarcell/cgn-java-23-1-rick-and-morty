@@ -6,4 +6,5 @@ export type Character = {
     origin: Origin,
     status: string,
     image: string,
+    episode: string[],
 }
